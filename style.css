@@ -1,0 +1,33 @@
+
+body {
+   text-align: center;
+
+
+
+  /*background-color: mistyrose;*/
+  font-family: rockwell;
+}
+
+#scores{
+  margin-top: 50px;
+}
+
+#tailsTally {
+  margin-bottom: 25px;
+
+}
+#results {
+  margin-top: 25px;
+}
+.img{
+  margin: auto;
+}
+.trigger {
+  transform: rotateY(-2340deg);
+  transition: 3s;
+}
+
+.none {
+  transform: rotateY(2160deg);
+  transition: 3s;
+}
